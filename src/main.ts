@@ -1,5 +1,5 @@
 import "./style.css";
-import "./clean-code/05-dry.ts";
+import "./clean-code/06-classes-c.ts";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
